@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="OnlineBookStore_012174/src"/>
+	<classpathentry kind="lib" path="OnlineBookStore_012174/WebContent/WEB-INF/lib/jstl-1.2_1.jar"/>
+	<classpathentry kind="lib" path="OnlineBookStore_012174/WebContent/WEB-INF/lib/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="OnlineBookStore_012174/build/classes"/>
+</classpath>
